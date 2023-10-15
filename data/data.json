@@ -1,0 +1,30 @@
+{
+    "status": true,
+    "message": "successfully fetched all the region",
+    "data": [
+        {
+            "regionName": "Oceania",
+            "region": "Oceania"
+        },
+        {
+            "regionName": "Americas",
+            "region": "Americas"
+        },
+        {
+            "regionName": "Africa",
+            "region": "Africa"
+        },
+        {
+            "regionName": "Europe",
+            "region": "Europe"
+        },
+        {
+            "regionName": "Asia",
+            "region": "Asia"
+        },
+        {
+            "regionName": "Antarctic",
+            "region": "Antarctic"
+        }
+    ]
+}
